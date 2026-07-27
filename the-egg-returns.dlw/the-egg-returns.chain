@@ -1,9 +1,9 @@
 ROOT0-DLW-CHAIN-v1
 index : 1492
 slug  : the-egg-returns
-seal  : c26d72d8a951ee12a1ea6e4a2f1377b1d126ac7682800531719c3c224fb7dee8
-prev  : a9a683af602b3ed455c2c173f3bd32e6944a86cb08e2541d8594528a041bd7ac
-link  : ba861e6fcf78e665a5c170a9f81dd831f8684f85a1c683f46c01625dc310048c
-head  : 2b2c3b26f9693f6bed9cb93b8ae38a250eaae7f250d85c81c2077a71dd3f2d8a
+seal  : 4eff9b8e5c16c54f6b80c7094c0367297acf26c06ad1d772f6edbd6e0255da4c
+prev  : 14f26bc2283b82ec484d80790efe98144b5d1c5a7b9deadd9339e70bdf14629c
+link  : ad38d39260563021561b4fee58c0d61b007e8075ac98a3cd0767b19073f176b0
+head  : c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
